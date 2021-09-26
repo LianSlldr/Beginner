@@ -1,3 +1,3 @@
 #Beginner
 
-Some Description  (Will learn!)
+Will learn!
